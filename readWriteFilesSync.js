@@ -9,4 +9,4 @@ const textOut = `This is new content. And this is existing content - ${textIn} \
 fs.writeFileSync("./txt/output.txt", textOut);
 console.log("File updated!");
 
-// run `node readWriteFilesSync.js` in terminal to see output
+// run `node readWriteFilesAsync.js` in terminal to see output
