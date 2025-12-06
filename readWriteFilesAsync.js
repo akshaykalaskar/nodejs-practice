@@ -13,3 +13,5 @@ fs.readFile("./txt/input.txt", "utf-8", (err, data) => {
 });
 
 console.log("File updated!");
+
+// run `node readWriteFilesAsync.js` in terminal to see output
