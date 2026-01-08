@@ -1,3 +1,5 @@
-This is having multiple branches covering various topics.
+topics -
 
-Switch to the branch you want to learn any topic
+- HTML Templating
+- Parsing variables from URL
+- Exporting modules
